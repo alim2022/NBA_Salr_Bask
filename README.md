@@ -15,6 +15,9 @@ Not every column was useful for us, so we deleted them. The only data columns we
 The JSI formula is a formula created to assess a player’s performance based on their number of turnovers, steals, blocks, assists, and field goals. The formula takes the average turnovers and multiplies it by 1.2, and adds the average number of steals and blocks to this product. Next, the average assists is multiplied by 0.8. The reason why the assists are multiplied by 0.8, and not 1.2 is because we thought that assists weren’t as important and showed less of a performance than the other three. With the total of all of these numbers, the formula multiplies this with the square root of the product of the average field goal percentage and 10. The reason why the average field goal percentage is square rooted after being multiplied by 10 is to decrease the ratio when comparing two or more players to make the comparison more accurate. The reason why we multiply the average field goal percentage by 10 before square rooting it is because since all of the percentages are less than 1, when it is square rooted the product becomes high. The multiplying by 10 allows the field goal percentage to be more equal.
 When comparing different players’ JSI’s, the higher score equals a higher performance.
 
+### Plotting
+We decided to use a scatter plot to show our data's correlation. A scatter plot is used when you need to show a correlation between two items, but only when there is no specific time relation. We used we used the individual salary of the players and the overall JSI as the y-axis. We believe that the scatter plot is the most effective method to show our data.
+
 
 ### Contributors
 * Joshua Koh
