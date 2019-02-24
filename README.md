@@ -1,6 +1,6 @@
 # NBA Performance & Salary
 
-![image](/Users/EdwardYang/Desktop/NBA_Salr_Bask/BasketballCover.jpg)
+![image](NBA_Salr_Bask/BasketballCover.jpg)
 
 
 
