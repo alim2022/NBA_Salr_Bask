@@ -1,4 +1,9 @@
 # NBA Performance & Salary
+
+![image](/Users/EdwardYang/Desktop/NBA_Salr_Bask/BasketballCover.jpg)
+
+
+
 This is the final coding project for Joshua Koh, Edward Yang,
 Edward Fujiwara, and Aaron Lim. The objective of this project is to analyze multiple data points from NBA players, and seeing if players’ salaries and their performance have any correlation(i.e. seeing if salaries are higher for 'better' players). Through this project we hoped to discover more of this in detail.
 
