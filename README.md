@@ -1,6 +1,6 @@
 # NBA Performance & Salary
 
-![image](NBA_Salr_Bask/BasketballCover.jpg)
+![image](https://images.pexels.com/photos/974516/pexels-photo-974516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 
 
 
