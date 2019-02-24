@@ -42,3 +42,7 @@ In conclusion, from our project, we were able to deduce that NBA players’ sala
 * Edward Yang
 * Edward Fujiwara
 * Aaron Lim
+
+### Special Thanks To
+* Jaehurn Nam
+* Blue Ribbon Academy
