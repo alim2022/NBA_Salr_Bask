@@ -4,7 +4,7 @@ Edward Fujiwara, and Aaron Lim. The objective of this project is to analyze mult
 
 ### Project Management
 
-Our project was mostly managed on Trello, and a shared Google Doc which we used to discuss and write a rough draft of this page. We assigned each member to certain tasks, which were roughly divided into Coding, the Readme document, and working on the Joshua Score Index(JSI)(the New Score Index(NSI) was added later).
+Our project was mostly managed on Trello, and a shared Google Doc which we used to discuss and write a rough draft of this page. We assigned each member to certain tasks, which were roughly divided into Coding, the Readme document, and working on the Joshua Score Index(JSI), New Score Index (NSI), New Score Index 2.0 (NSI 2.0), and Player Score Index (PSI).
 
 ### CSV Files and Statistics
 
